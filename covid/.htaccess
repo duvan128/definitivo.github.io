@@ -1,0 +1,13 @@
+
+# HTID:8778531: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+php_flag output_buffering on
+
+#UPLOAD
+
+php_value upload_max_filesize 256M
+php_value post_max_size 256M
+php_value max_execution_time 600
+php_value max_input_time 600
+
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:8778531:
